@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Darts 3 Strikes Easy.unity
+  isLoaded: 1
+  isActive: 1
